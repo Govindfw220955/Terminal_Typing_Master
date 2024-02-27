@@ -10,7 +10,7 @@ If you want to Play with this Typing Master, clone it👉  https://github.com/Go
 
 This is the Screenshot of the interface of this Terminal_Typing_Master Project.
 
-<img align="center" src="https://github.com/Govindfw220955/Terminal_Typing_Master/blob/main/Screenshot%202024-02-27%20204327.png" alt="Terminal_Typing_Master  />
+<img align="center" src="https://github.com/Govindfw220955/Terminal_Typing_Master/blob/main/Screenshot%202024-02-27%20204327.png" alt="Terminal_Typing_Master"  />
 
 ## About Project 
 * In this Project  Implemented a time-based challenge mode.
